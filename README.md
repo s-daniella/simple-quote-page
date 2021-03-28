@@ -1,2 +1,2 @@
 # simple-quote-page
-Simpe quote page
+Simple quote page
